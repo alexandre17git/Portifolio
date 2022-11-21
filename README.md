@@ -4,9 +4,9 @@ Nesse projeto foi construido um portifolio para uso pessoal usando das funcional
 
 Habilidades Aprendidas ou Melhoradas:
 
-FRAMEWORK: REACT.js, 
-Linguagem: JavaScript,
-Outras: CSS, HTML,
-Caracteristicas: Responsivo,
-React.js: SwiperSlider, Cards, useContext, useReducer, useState, Link.
+FRAMEWORK: REACT.js
+Linguagem: JavaScript
+Outras: CSS, HTML
+Caracteristicas: Responsivo
+React.js: SwiperSlider, Cards, useContext, useReducer, useState, Link
 Integracoes: email.js
